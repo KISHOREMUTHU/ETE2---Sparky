@@ -1,5 +1,8 @@
 # SVCE Mobile
 
+![](https://img.shields.io/github/repo-size/KISHOREMUTHU/ETE2---Sparky)
+![](https://img.shields.io/github/forks/KISHOREMUTHU/ETE2---Sparky?style=social)
+
 A Multi - Functional Flutter Application for SVCE Users.
 
 ## Project Abstract
@@ -20,10 +23,10 @@ A Multi - Functional Flutter Application for SVCE Users.
 
 ## Tech Stack 
 
- - Flutter and Dart ( SDK and ChatBot )
- - Firebase ( Google Auth , Cloud Firestore ) 
- - Python ( Data Processing ) 
- - Canva ( Basic UI ) 
+ - Flutter and Dart (SDK and ChatBot)
+ - Firebase (Google Auth, Cloud Firestore) 
+ - Python (Data Processing) 
+ - Canva (Basic UI) 
 
 ## APIs and Libraries Used 
 
@@ -47,21 +50,16 @@ A Multi - Functional Flutter Application for SVCE Users.
 ## Who Can Join ? 
 
  - Students , who are willing to learn some tech stuffs and passionate about Design and Flutter development can join us .
- - UI / UX designer  - ( Beginner / Advanced )
- - Flutter developer - ( Beginner / Advanced )
- - Python developer  - ( Beginner )
- - ChatBot developer - ( Advanced ) 
+ - UI / UX designer  - (Beginner / Advanced)
+ - Flutter developer - (Beginner / Advanced)
+ - Python developer  - (Beginner)
+ - ChatBot developer - (Advanced) 
 
 ## Images 
 
-![](assets/svce/login.jpeg)
-![](assets/svce/signup.jpeg)
-![](assets/svce/home1.jpeg)
-![](assets/svce/activities.jpeg)
-![](assets/svce/chatbot.jpeg)
-![](assets/svce/erp.jpeg)
-![](assets/svce/notes.jpeg)
-![](assets/svce/profile.jpeg)
+<img src="assets/svce/login.jpeg" alt="drawing" width="240" height="450"/> <img src="assets/svce/signup.jpeg" alt="drawing" width="240" height="450"/> <img src="assets/svce/home1.jpeg" alt="drawing" width="240" height="450"/>
+<img src="assets/svce/activities.jpeg" alt="drawing" width="240" height="450"/> <img src="assets/svce/chatbot.jpeg" alt="drawing" width="240" height="450"/> <img src="assets/svce/erp.jpeg" alt="drawing" width="240" height="450"/>
+<img src="assets/svce/notes.jpeg" alt="drawing" width="240" height="450"/> <img src="assets/svce/profile.jpeg" alt="drawing" width="240" height="450"/>
 
 
 
